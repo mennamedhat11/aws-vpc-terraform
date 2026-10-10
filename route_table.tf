@@ -1,3 +1,4 @@
+
 resource "aws_default_route_table" "publicRT" {
   default_route_table_id = aws_vpc.vpc_dev.default_route_table_id
 
