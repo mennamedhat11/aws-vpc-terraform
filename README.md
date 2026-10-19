@@ -58,7 +58,7 @@ Infrastructure as Code project that provisions a multi-AZ AWS network (VPC, publ
 ## Prerequisites
 
 - [Terraform](https://developer.hashicorp.com/terraform/install) >= 1.0
-- Local AWS emulator running on port `4566` (<how you start it, e.g. Floci>)
+- Local AWS emulator running on port `4566` 
 
 ## Usage
 
